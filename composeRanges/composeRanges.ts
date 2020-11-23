@@ -24,4 +24,4 @@ function composeRanges(nums: number[]): string[] {
 	return ranges;
 }
 
-// console.log(composeRanges([-1, 0, 1, 2, 6, 7, 9]));
+console.log(composeRanges([-1, 0, 1, 2, 6, 7, 9]));
